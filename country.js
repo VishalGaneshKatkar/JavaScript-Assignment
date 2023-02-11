@@ -1,0 +1,1 @@
+let country=["india",'america','china']
